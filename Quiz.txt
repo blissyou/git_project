@@ -1,0 +1,22 @@
+1. Git : 개인 컴퓨터에서 돌아가는 VCS(Version Control System)이고, 
+   GitHuv : Git 소프트위어를 지원하는 일종의 클라우드 서비스이다
+
+2. cd
+
+3. git init
+
+4. remote, add
+
+5. Quiz.txt : git add, README.md : git 저장소가 관리한 적 없는 새로운 파일
+
+6. 원격저장소에 내 로컬저장소에는 없는 파일이 있을 때 내 파일을 push 하면 발생하는 오류
+
+7. 브랜치 장점
+    - 동시 작업이 편하다
+    - 버전 관리가 편리하다
+    - 목적이 명확하다
+
+8. git checkout ONEZERO
+
+9. git checkout main
+   git merge ONEZERO
