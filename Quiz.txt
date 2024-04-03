@@ -1,0 +1,27 @@
+컴퓨터정보통신공학과 20201460 최용훈
+
+1. Git이란 DVCS : Distributed Version Control system 즉 분산형 버전 (형상) 관리 도구이다. (변경된 내용만 관리하는 도구)
+이의 특징으로 코드를 언제 누가 무엇을 변경했는지 서로 비교가 가능하며 예전 버전으로 돌아가거나 여러개의 코드를 합치기가 가능하다.
+GitHub란 코드의 저장소 개념이며 깃의 기능을 웹 기반 인터페이스로 확장한 서비스, 개발자들이 코드를 공유하고 협업할 수 있는 플랫폼을 제공한다.
+
+2. cd
+
+3. git init
+
+4. remote add
+
+5.
+cd ~/Desktop/git_test 
+git init
+git add Quiz.txt
+git status
+
+6. github에 있는 파일과 현재 push하려는 commit이 일치하지 않아 발생한다.
+
+7. git branch로 새로운 branch를 생성하여 commit하면 master branch에는 아무런 영향을 주지 않기에 협업에서 하나의 프로젝트를 여러 갈래로 나누어 관리할 수 있으며 각각의 독립된 branch에서 마음대로 소스코드를 변경하여 작업한 후 원래 버전과 비교하여 또 하나의 새로운 버전을 만들어낼 수 있는 장점이 있다.
+
+8. git switch ONEZERO 와
+git checkout ONEZERO 로 이동이 가능하다
+
+9. git checkout main
+git merge ONEZERO
