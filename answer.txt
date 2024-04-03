@@ -1,0 +1,11 @@
+1.git=로컬저장소에 있는 파일을 원격저장소로 보내거나 (원격->로컬 으(로))가져오는 프로그램
+github=원격저장소
+2.cd
+3.git init
+4.remot add
+5.git add Quiz.txt
+6.원격저장소에는 이 파일을저장할 장소를 마련하지 않았기 때문에 그렇다.
+7.오류 수정하기 간편+분할작업후 합치기 편리
+8.git checkout ONEZERO
+9.git checkout ONEZERO
+git merge ONEZERO
