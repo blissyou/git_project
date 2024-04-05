@@ -1,0 +1,13 @@
+1. git은 버전관리 프로그램이고 git hub는 파일들을 저장하는 원격 저장소이다.
+2. cd <파일주소>
+3. git add git_test / git add . 
+   git commit -m "messege"
+4. remote, -u
+5. git add Quiz.txt
+6. 다른사람이 레포지토리에 푸쉬를 해서 내가 가지고있는 파일과 
+   github에 저장된 파일의 차이가 나서 생긴 오류이다.
+7. main코드에 영향을 주지않고 오류 해결혹은 새로운 것을 시도해 볼 수 있다.
+8. git checkout ONEZERO
+9. git checkout main
+   git merge ONEZERO
+   git push 
